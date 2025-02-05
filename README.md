@@ -33,5 +33,5 @@ Run the Application:
  python main.py
  ![image](https://github.com/user-attachments/assets/15f8d9fa-ab3a-470c-a33e-b14e67294e5e)
 ![image](https://github.com/user-attachments/assets/afe9297f-c3ea-4ca9-b2b3-5d0b79c1d557)
+![image](https://github.com/user-attachments/assets/7242637f-e178-448a-a305-4f6c0b4be597)
 
-![image](https://github.com/user-attachments/assets/f912182b-6c32-46bd-9262-d3b9290a4b63)
